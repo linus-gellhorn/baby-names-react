@@ -23,3 +23,16 @@ h1 {
 .m {
   color: blue;
 }
+
+input {
+  margin: 10px;
+  width: 25%;
+}
+
+form {
+  text-align: center;
+}
+
+.shown-names {
+  text-align: center;
+}
